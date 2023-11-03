@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+}
+
+section {
+  height: 100vh;
+}
+
+#hot {
+  background-color: red;
+}
+
+#juicy {
+  background-color: green;
+}
+
+#cosy {
+  background-color: blue;
+}
